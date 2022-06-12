@@ -17,9 +17,11 @@
 ```shell 
 git clone https://github.com/WILYR/gitlab-generic-packages.git
 ```
-Если хотим в докере, то можно просто скачать [последний docker image в релизах](eth0.me) или собрать самостоятельно  
+Если хотим в докере, то можно просто скачать последний docker image из репозитория или собрать самостоятельно  
 ```shell
-docker build --label=gitlab-packages -t gitlab-package:0.2 .
+docker pull ghcr.io/wilyr/gitlab-package:0.1.1
+## Или
+docker build --label=gitlab-packages -t gitlab-package:0.1.1 .
 ```
 
 ## Запуск
