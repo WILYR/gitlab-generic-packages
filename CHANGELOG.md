@@ -1,0 +1,16 @@
+- Обновление докер образа. Поддержка openssl
+- CHANGELOG.md
+- Добавлена возможность подключение по сертификату с паролем(средствами openssl)
+- Update README.md
+- Добавлена поддержка удаления файла, вариант дублирования/удаления повторяющихся файлов
+- fix
+- find file func
+- Update README.md
+- init readme, changelog
+- Merge branch 'file_path_issue' into 'main'
+- add enter filedir - 'out'
+- Merge branch 'docker_branch' into 'main'
+- Docker, bash starter
+- Merge branch 'send_method_branch' into 'main'
+- Add send method, cert check
+- Initial commit
