@@ -35,7 +35,7 @@ Source: https://github.com/WILYR/gitlab-generic-packages.git
 
 Скачиваем image  
 ```shell
-docker pull ghcr.io/wilyr/gitlab-package:main
+docker pull ghcr.io/wilyr/gitlab-package:latest ### 0.1.5/main
 ```
 Можно просто собрать самостоятельно
 ```shell
