@@ -1,3 +1,21 @@
+- small fix
+- Merge branch 'force_rework_issue' into 'main'
+- v0.1.5 Переработка флага -f
+- Merge branch 'docker_envs_issue' into 'main'
+- v0.1.4 Переработка Docker ENV. Возможность задания ENV через Bash параметры
+- Update CHANGELOG.md
+- Merge branch 'many_files_issue' into 'main'
+- v0.1.3 Новые тэги: -f, -pw. Решение проблемы множества одинаковых файлов.
+- Update README.md
+- Update CHANGELOG.md
+- Merge branch 'docker_lite' into 'main'
+- v0.1.2 Новые тэги. Переработка Docker образа.
+- Добавлена возможность переопределить свойства через тэги. Уменьшение образа Docker.
+- Update README.md
+- remove out
+- gitignore add
+- Update README.md
+- CHANGELOG.md
 - Обновление докер образа. Поддержка openssl
 - CHANGELOG.md
 - Добавлена возможность подключение по сертификату с паролем(средствами openssl)
